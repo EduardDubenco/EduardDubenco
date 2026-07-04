@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:7c3aed,100:ec4899&height=220&section=header&text=Eduard%20Dubenco&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Building%20Web%20Interfaces&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:7c3aed,100:ec4899&height=220&section=header&text=Eduard%20Dubenco&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20·%20Building%20Web%20Interfaces&descAlignY=58&descSize=18" alt="header" />
 
 
 <a href="https://github.com/EduardDubenco">
