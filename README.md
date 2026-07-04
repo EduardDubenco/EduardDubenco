@@ -3,7 +3,7 @@
   1. Replace the email / Telegram / LinkedIn placeholders in the "Let's Connect" section near the bottom.
   2. Optionally rewrite the one-line descriptions in "Featured Projects" — GitHub had no descriptions
      set on these repos, so the ones below are best-guess summaries based on repo name + language.
-  3. Push this file (and .github/workflows/snake.yml) to the EduardDubenco/EduardDubenco repo, main branchk.
+  3. Push this file (and .github/workflows/snake.yml) to the EduardDubenco/EduardDubenco repo, main branch.
 -->
 
 <div align="center">
@@ -61,14 +61,15 @@ I'm a **frontend developer** who loves turning designs into clean, responsive in
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardDubenco&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0abfc&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=EduardDubenco&hide_border=true&background=0D1117&ring=A78BFA&fire=F0ABFC&currStreakLabel=F0ABFC" alt="GitHub streak" />
+![Followers](https://img.shields.io/github/followers/EduardDubenco?style=flat-square&color=a78bfa&logo=github&label=Followers)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardDubenco&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0abfc&text_color=c9d1d9&exclude_repo=E-Commerce,flusk-site,CarSale,hw-my-app,crud-express,Programarea-orientata-pe-obiect-I" alt="Top languages" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EduardDubenco&theme=react-dark&hide_border=true&bg_color=0D1117&color=c9d1d9&line=A78BFA&point=EC4899&area=true&area_color=A78BFA&title_color=F0ABFC" alt="contribution activity graph" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=EduardDubenco&hide_border=true&background=0D1117&ring=A78BFA&fire=F0ABFC&currStreakLabel=F0ABFC" alt="GitHub streak" />
 
 </div>
 
@@ -86,6 +87,7 @@ I'm a **frontend developer** who loves turning designs into clean, responsive in
 
 </div>
 
+> ⚙️ Generated automatically by the GitHub Action in [`.github/workflows/snake.yml`](.github/workflows/snake.yml) — it appears after that workflow runs once (see setup notes below).
 
 <br/>
 
