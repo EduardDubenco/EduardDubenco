@@ -86,7 +86,6 @@ I'm a **frontend developer** who loves turning designs into clean, responsive in
 
 </div>
 
-> ⚙️ Generated automatically by the GitHub Action in [`.github/workflows/snake.yml`](.github/workflows/snake.yml) — it appears after that workflow runs once (see setup notes below).
 
 <br/>
 
