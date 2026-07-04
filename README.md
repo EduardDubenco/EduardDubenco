@@ -8,7 +8,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:7c3aed,100:ec4899&height=220&section=header&text=Eduard%20Dubenco&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20UI%20%26%20Web&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:7c3aed,100:ec4899&height=220&section=header&text=Eduard%20Dubenco&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Building%20Web%20Interfaces&descAlignY=58&descSize=18" alt="header" />
+
 
 <a href="https://github.com/EduardDubenco">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F0ABFC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Eduard+%F0%9F%91%8B;Frontend+Developer;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+TypeScript;React+%7C+Vue+%7C+Sass+%7C+Tailwind;Crafting+clean%2C+responsive+UIs+%E2%9C%A8;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
